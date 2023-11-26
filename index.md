@@ -6,5 +6,7 @@ ive changed the blank file to a "hi" text. And now i also added an image of "Ore
 hi = "Hello, world!"
 print(hi)
 ```
-
+- [ ] learn github
+- [ ] become capable
+- [ ] be awesome!
 
